@@ -11,7 +11,7 @@ Selenium WebDriver | JavaScript | Page Object Model (POM)
 
 > Before executing the scripts, ensure the following are installed on the system:
 
->>Node.js (version 16 or higher recommended)
+>>Node.js (version 20 or higher required)
 >>Google Chrome browser
 >>ChromeDriver compatible with the installed Chrome version
 
